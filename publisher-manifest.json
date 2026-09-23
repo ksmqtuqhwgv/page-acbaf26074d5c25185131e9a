@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fb069dd1046305ed6730f9f2",
+  "owner": "ksmqtuqhwgv",
+  "repo": "page-acbaf26074d5c25185131e9a",
+  "title": "嘿嘿云(HeyCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "acbaf26074d5c25185131e9a",
+      "a": "嘿嘿云(HeyCloud)",
+      "b": "2027官方最新地址导航",
+      "entity": "嘿嘿云(HeyCloud)",
+      "brand": "嘿嘿云(HeyCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "518fa09b585247dede8f2ceace0d465ec37eb715a9d3a471547e2a97ff8098ff",
+      "content": {
+        "primary_entity": "嘿嘿云(HeyCloud)",
+        "keyword1": "嘿嘿云(HeyCloud)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按你的设备挑选合适的客户端，订阅导入前先确认系统版本。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，按文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置嘿嘿云",
+          "AI_DESCRIPTION": "，嘿嘿云提供基础版、旗舰版与团队版三档订阅，分别对应 3 台、5 台和 20 台设备同时在线，月付起步价 ¥15，年付方案更划算。旗舰版含 IPLC 专线游戏加速优化，团队版适合多设备协作，可按日常使用场景挑选。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和订阅周期三个角度，快速定位合适的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可同时在线 20 台。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB 分档，重度使用建议选大流量版本。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付经济，基础版按年付 ¥150，长期使用更省心。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "流量额度评估",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅导入，三步即可用上嘿嘿云。",
+          "AI_GUIDE_TITLE": "使用流程指引",
+          "AI_HERO_INTRO": "嘿嘿云提供多档海外加速订阅，适配手机、电脑与路由器等常用设备，覆盖流媒体与游戏加速场景，按需选择基础版、旗舰版或团队版即可开始使用。",
+          "AI_HERO_SUBTITLE": "多设备海外加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "年付方案更经济实用",
+          "AI_HIGHLIGHT_3": "主流客户端按文档导入",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量与 3 台设备，旗舰版 300GB 与 5 台设备并支持 IPLC 专线，团队版 1000GB 与 20 台设备，年付价格分别为 ¥150、¥350 和 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先统计常用设备数量与每月流量需求，再对照三档套餐的容量范围。",
+          "AI_STEP_TEXT_2": "在客户端中选择导入订阅链接的方式，粘贴后保存并更新节点。",
+          "AI_STEP_TEXT_3": "在所选客户端中按文档导入订阅地址，检查节点列表并连接测试。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TITLE_2": "导入订阅链接",
+          "AI_STEP_TITLE_3": "检查连接状态",
+          "AI_VISUAL_TITLE": "嘿嘿云订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。超出对应数量时部分设备会无法同时在线，可根据常用设备数选择合适档位。",
+          "AI_FAQ_ANSWER_2": "进入客户端订阅管理界面，粘贴订阅链接后更新即可。不同客户端位置略有差异，可参考对应客户端的配置文档。",
+          "AI_FAQ_ANSWER_3": "旗舰版在普通节点池基础上增加IPLC专线，针对游戏和实时通信做延迟优化，并附带7x24优先工单支持。",
+          "AI_FAQ_ANSWER_4": "月付适合短期使用；年付相当于按月价10倍左右计算，长期使用年付更划算。团队版可按年付850元使用全年。",
+          "AI_FAQ_ANSWER_5": "普通节点与VIP节点均可使用，具体覆盖范围会随节点池调整。旗舰版和团队版在流媒体解锁和带宽上体验更完整。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_2": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_4": "月付和年付如何选择？",
+          "AI_FAQ_QUESTION_5": "普通节点和VIP节点有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lianshanjob.cn",
+    "host": "lianshanjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "e464f923454faefa3293ef50e2848ddd9ae6d04fa7b93d9ce71a54c633d93966",
+    "sitemap.xml": "e185c431ed977ba08a51f9981b71226a38104f0838434fd0306d32c642803f5f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d419d5d6c212b856a766d11a8ba83ccbe33d7a6c1d40a8fc34a959bb45492ef3",
+    "robots.txt": "6d147a0fa5fa9c061f84fd888edca50c30970bfc3a81264c58535791148d3ac7",
+    "d88023e0176607992e49d675acddc096.txt": "d1329293cd1f9b6951de04615315cfd0bc29ebe3b32fe233ef18465a4f539b25"
+  },
+  "revision": "b938b56def0fa7403855297d2d7f91801b0a0c126699a05aafa93006da9de00d"
+}
